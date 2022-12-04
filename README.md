@@ -11,7 +11,7 @@ git clone https://github.com/Yurnerroo/cinema_serivice_api
 cd cinema_service_api
 python3 -m venv venv
 venv/Scripts/activate
-pip install -r requirments.txt
+pip install -r requirements.txt
 export/set DEBUG=True
 export/set DB_HOST=<host name>
 export/set DB_NAME=<db name>
